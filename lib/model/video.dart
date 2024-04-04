@@ -1,6 +1,6 @@
 import 'package:flutter/cupertino.dart';
 
-class video {
+class Video {
   final String title;
   final String imagePath;
   final String userImage;
@@ -8,7 +8,7 @@ class video {
   final String time;
   final Icon icon;
 
-  const video({
+  const Video({
     required this.title,
     required this.imagePath,
     required this.userImage,
