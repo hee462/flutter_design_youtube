@@ -1,16 +1,12 @@
 # flutter_design_youtube
 
-A new Flutter project.
+youtube 메인 화면 레이아웃 똑같이 만들어 보기
+
+
+<img width="491" alt="스크린샷 2024-04-04 오후 3 03 30" src="https://github.com/hee462/flutter_design_youtube/assets/130423866/e1c19ff7-2a9c-46e4-8c77-5988e2e65019">
+
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
